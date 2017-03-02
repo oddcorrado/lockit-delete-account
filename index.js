@@ -5,7 +5,7 @@ var events = require('events');
 var util = require('util');
 var express = require('express');
 var pwd = require('couch-pwd');
-var utils = require('lockit-utils');
+var utils = require('../lockit-utilities');
 
 
 
